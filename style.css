@@ -77,6 +77,10 @@
 
     .projects img {
       width: 50%;
+      max-height: 200px;
+      display: cover;
+      min-width: 200px;
+      min-height: 200px;
 
     }
 
