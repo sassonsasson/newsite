@@ -106,3 +106,18 @@
     .row {
       clear:both;
     }
+
+        .navbar .navbar-nav {
+      display: inline-block;
+      float: none;
+      vertical-align: top;
+    }
+
+    .navbar .navbar-collapse {
+      text-align: center;
+    }
+
+    
+    .navbar .navbar-nav li a {
+      padding-right: 35px;
+    }
